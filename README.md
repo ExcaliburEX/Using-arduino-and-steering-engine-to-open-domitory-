@@ -11,3 +11,7 @@
  convinced to open the door.After that I had an idea about using the 
  bluetooth and keypad to open the door.This repository
  possesses the code about the arduino but without the devices.
+ 
+ 
+ 
+

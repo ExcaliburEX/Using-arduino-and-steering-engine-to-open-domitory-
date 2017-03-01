@@ -12,7 +12,7 @@
  bluetooth and keypad to open the door.This repository
  possesses the code about the arduino but without the devices.
  
- ## Description
+## Description
  It's about this device how to work.I have designed two ways to control the steering engine to open the door by the Arduino.One of it is sending the message to Arduino and then it trigger the steering engine to rotate 180 degrees and then reverses 180 degrees automatically.Anthor is to entry the combination through the keypad and the Arduino judge right or no.
  
  

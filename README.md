@@ -21,3 +21,7 @@
  
 ## About the battery
 5v portable source for Arduino and 2600Mah,4.8v TJC for steering engine.
+
+
+![1](https://github.com/ExcaliburEX/Using-arduino-and-steering-engine-to-open-domitory-/blob/master/1.jpg)
+![2](https://github.com/ExcaliburEX/Using-arduino-and-steering-engine-to-open-domitory-/blob/master/2.jpg)
